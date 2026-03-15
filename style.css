@@ -83,7 +83,7 @@
 }
 
 .content {
-    background-image: url(/background.jpg);
+    background-image: url(Image/background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
